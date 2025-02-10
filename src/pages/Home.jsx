@@ -46,7 +46,7 @@ const Home = () => {
             <img
               src='/athleisure.png'
               alt=''
-              height='230px'
+              height='220px'
               className='athleisure'
             />
           </a>
